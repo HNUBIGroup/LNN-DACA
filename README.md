@@ -31,6 +31,14 @@ Feature extraction can be performed using:
 
 python generate_features.py
 
+Due to the file size, the datasets used in this study are provided separately.
+
+The complete data package can be downloaded from Quark Cloud Drive:
+
+https://pan.quark.cn/s/f0b08808143c
+
+After downloading and extracting the files, place the data folder in the root directory of this repository. Please keep the original directory structure unchanged when running the provided scripts.
+
 3. Construction of the Final Input (sample.txt)
 
 The script combines:
